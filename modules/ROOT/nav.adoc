@@ -1,6 +1,6 @@
 * 攻略
 ** xref:creation.adoc[开局捏人]
-** xref:auto-battle.adoc[自动战斗]
+** xref:auto-battle.adoc[自动战斗设置]
 ** xref:process/starter.adoc[前期资源积累阶段]
 ** xref:process/build-basic.adoc[功法搭配基本原则]
 ** xref:process/level7.adoc[发展阶段(7品)]
